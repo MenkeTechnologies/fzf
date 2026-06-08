@@ -4,9 +4,9 @@ require (
 	github.com/charlievieth/fastwalk v1.0.9
 	github.com/gdamore/tcell/v2 v2.7.4
 	github.com/junegunn/go-shellwords v0.0.0-20240813092932-a62c48c52e97
-	github.com/mattn/go-isatty v0.0.20
+	github.com/mattn/go-isatty v0.0.22
 	github.com/rivo/uniseg v0.4.7
-	golang.org/x/sys v0.26.0
+	golang.org/x/sys v0.28.0
 	golang.org/x/term v0.25.0
 )
 
@@ -17,4 +17,4 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 )
 
-go 1.20
+go 1.21
